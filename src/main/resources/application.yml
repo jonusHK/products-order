@@ -1,0 +1,17 @@
+products:
+  path: src/main/resources/static/products.csv
+
+redis:
+  redisson:
+    connection-pool-size: 128
+
+spring:
+  cache:
+    type: redis
+    redis:
+      time-to-live: 3600
+      cache-null-values: true
+  redis:
+    host: localhost
+    port: 6379
+    maxheap: 128M

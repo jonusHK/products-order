@@ -61,6 +61,7 @@
     * 주문 생성 (주문 상태 : `COMPLETED`)
     * 주문 상품 생성 (`주문:상품=1:N` 매핑)
     * 결제 생성 (결제 상태 : `COMPLETED`)
+
 5. 재고 부족한 경우 `SoldOutException` 발생
 <img src="https://github.com/jonusHK/products-order/assets/48202867/4a6b4877-e06d-4867-97bb-0ec59aad6780" />
 

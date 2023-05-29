@@ -66,5 +66,5 @@
 
 ### 취소
 1. 주문 종료 메시지 출력 (`q 또는 quit 입력`)
-   <img src="https://github.com/jonusHK/products-order/assets/48202867/2e4f3c0b-08e3-452a-ab8e-23a11a9edd5f" />
+<img src="https://github.com/jonusHK/products-order/assets/48202867/2e4f3c0b-08e3-452a-ab8e-23a11a9edd5f" />
 2. 어플리케이션 종료

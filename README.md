@@ -57,9 +57,6 @@
 3. 장바구니에 상품 추가 (`상품번호 입력 + ENTER`, `수량 입력 + ENTER`)
 <img src="https://github.com/jonusHK/products-order/assets/48202867/13bac112-f5d6-431d-ac9b-b2ff9dbdf658" />
 4. 장바구니 상품으로 주문 및 결제 (`상품번호 또는 수량에 SPACE + ENTER`)
-  * 주문 생성 (주문 상태 : `COMPLETED`)
-  * 주문 상품 생성 (`주문:상품=1:N` 매핑)
-  * 결제 생성 (결제 상태 : `COMPLETED`)
 <img src="https://github.com/jonusHK/products-order/assets/48202867/495a87fc-192c-4980-add8-2e8ab53a207f" />
 5. 재고 부족한 경우 `SoldOutException` 발생
 <img src="https://github.com/jonusHK/products-order/assets/48202867/4a6b4877-e06d-4867-97bb-0ec59aad6780" />
